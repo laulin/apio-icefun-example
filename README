@@ -1,0 +1,21 @@
+# Why
+
+No example is provided with apio for icefun board, even it is supported. This project 
+gives you the template to start fun project. Enjoy :)
+
+# Install APIO
+
+installing apio and dependancies is very easy : 
+
+pip3 install apio
+apio install -a
+bash -c "pip3 install apio[icefunprog]"
+
+# Links 
+
+https://www.woolseyworkshop.com/2019/08/30/getting-started-with-the-tinyfpga-bx/
+
+# acknowledgement
+
+I would like to thank you Jesús Arroyo Torrens and Juan González (Obijuan) for the amazing job
+they did !
